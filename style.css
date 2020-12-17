@@ -1,0 +1,38 @@
+
+form{
+    background-color: rgb(132, 125, 158);
+    width: 30vw;
+    margin: auto;
+    padding-left: 5%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-top: 5%;
+    border-radius: 15px;
+    box-shadow: 5px 5px 15px rgb(216, 151, 202);
+}
+body{
+    background-image:url("fleur.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   box-sizing: content-box;
+    
+}
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    margin-top: 2%;
+    font-size: 3em;
+    color: rgba(35, 35, 119, 0.815);
+    text-shadow: 5px 5px 5px rgb(139, 139, 189);
+    
+}
+input{
+    background-color: rgb(238, 227, 236);
+    border-radius: 15px;
+    
+}
+input[type="submit"]{
+    background-color: rgba(231, 88, 148, 0.432);
+    color: cornsilk;
+    box-shadow: 5px 5px 5px rgb(139, 139, 189);
+}
